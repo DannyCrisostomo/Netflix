@@ -1,0 +1,120 @@
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+}
+a{
+    color: white;
+    font-size: 15px;
+}
+.contenedor{
+    height: 100vh;
+    width: 100%;
+}
+video{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+}
+.borde{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%,rgba(0, 0, 0, .9) 1%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 1) 100%);
+}
+/*NAVBAR*/
+.header {
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar{
+    width: 95%;
+    margin-inline: auto;
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo ul{
+    display: flex;
+    font-size: 15px;
+    gap: 10px;
+}
+.logo img{
+    width: 130px;
+}
+.link{
+    display: flex;
+    align-items: center;
+}
+.link ul{
+    display: flex;
+    font-size: 15px;
+    align-items: center;
+    gap: 10px;
+}
+.link ul li a img{
+    width: 30px;
+}
+.link ul li a .usuario{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+/*Cuerpo*/
+.cuerpo{
+    flex: 1;
+    width: 95%;
+    margin-inline: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.cuerpo img{
+    width: 100%;
+}
+.video{
+    width: max-content;
+    display: flex;
+    gap: 15px;
+    margin: 13px 0;
+}
+.video p {
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 7px 15px;
+}
+.video p:nth-child(1) {
+    border: 1px solid white;
+    background-color: white;
+    cursor: pointer;
+}
+.video p:nth-child(2) {
+    border: 1px solid #6d6d63b3;
+    background-color: #6d6d63b3;
+    cursor: pointer;
+    color: white;
+}
+.video p:nth-child(1):hover {
+    color: white;
+    background-color: transparent;
+}
+.video p:nth-child(2):hover {
+    background-color: transparent;
+}
+img {
+    border-style: none;
+}
