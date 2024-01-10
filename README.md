@@ -2,6 +2,14 @@
 
 Este código HTML representa una página de inicio con un diseño similar al de Netflix. La página incluye una estructura básica con un encabezado que contiene un menú de navegación, y un cuerpo con contenido multimedia.
 
+
+## Vista Previa 🌐
+
+Puedes acceder a una vista previa en vivo del prototipo [aquí](https://dreamy-zuccutto-e94890.netlify.app/).
+
+
+![Vista Previa Netflix](https://github.com/DannyCrisostomo/Netflix/blob/main/Netflix.jpg)
+
 ### Estructura de Archivos
 
 - **css/style.css:** Hoja de estilo principal para dar formato a la página.
@@ -35,6 +43,5 @@ Este código HTML representa una página de inicio con un diseño similar al de 
 
 ¡Disfruta personalizando tu página! 🎬🍿
 
-## Vista Previa
-![Vista Previa Netflix](https://github.com/DannyCrisostomo/Netflix/blob/main/Netflix.jpg)
+
 
