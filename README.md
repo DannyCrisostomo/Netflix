@@ -13,7 +13,8 @@ Este código HTML representa una página de inicio con un diseño similar al de 
 1. Clona el repositorio:
 
     ```bash
-    git clone [ git clone [[URL_del_repositorio](https://github.com/DannyCrisostomo/Netflix.git)]]
+    git clone https://github.com/DannyCrisostomo/Netflix.git
+
     ```
 
 2. Abre el archivo `index.html` en un navegador web para visualizar la página de inicio.
