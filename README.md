@@ -30,7 +30,7 @@ Este código HTML representa una página de inicio con un diseño similar al de 
 2. Personaliza el menú de navegación y enlaces para adaptarlos a las categorías deseadas.
 3. Actualiza la carpeta `Multimedia/` con tus propias imágenes y videos.
 
-¡Siéntete libre de utilizar este código como punto de partida para crear tu propia página de inicio al estilo Netflix! Si tienes alguna pregunta o necesitas asistencia, por favor contacta a [tu_nombre](#).
+¡Siéntete libre de utilizar este código como punto de partida para crear tu propia página de inicio al estilo Netflix! Si tienes alguna pregunta o necesitas asistencia, por favor contacta a [Danny Crisostomo](#).
 
 ¡Disfruta personalizando tu página! 🎬🍿
 
